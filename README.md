@@ -25,6 +25,12 @@ An intermediate SolidWorks assembly project designing a double-wishbone suspensi
 </tr>
 </table>
 
+<table>
+<tr>
+<td><img width="250" height="250" alt="Screenshot 2026-09-30 133925" src="https://github.com/user-attachments/assets/5edac132-27e2-4d48-8877-91abfb166f88" /></td>
+<td><img width="150" height="135" alt="Screenshot 2026-09-30 133831" src="https://github.com/user-attachments/assets/5ee3b7e4-9a60-458b-80ac-7d7bbeeff26f" /><br>Front rim</td>
+</tr>
+</table>
 
 
 
