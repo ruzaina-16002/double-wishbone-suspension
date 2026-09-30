@@ -16,7 +16,8 @@ An intermediate SolidWorks assembly project designing a double-wishbone suspensi
 
 ## References
 Used grabcad to find a simple CAD of a suspension assembly: 
-<img width="515" height="512" alt="Screenshot 2026-09-30 133925" src="https://github.com/user-attachments/assets/5edac132-27e2-4d48-8877-91abfb166f88" />
+<img width="250" height="250" alt="Screenshot 2026-09-30 133925" src="https://github.com/user-attachments/assets/5edac132-27e2-4d48-8877-91abfb166f88" />
+
 
 
 
