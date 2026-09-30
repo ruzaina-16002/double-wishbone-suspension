@@ -6,7 +6,7 @@ An intermediate SolidWorks assembly project designing a double-wishbone suspensi
 - Model individual components: upright, upper/lower wishbones, coilover, hub
 - Assemble with correct mates (concentric for ball joints, hinge/limited-distance for wishbone pivots)
 - Run a motion study simulating bump/droop wheel travel
-- Stretch goal: feed finished geometry into ANSYS for static structural analysis, tying into the separate [suspension bellcrank FEA project](#)
+- Stretch goal: feed finished geometry into ANSYS for static structural analysis, tying into an attempt I made at FEA on a suspension bell crank. 
 
 ## Status
 🚧 In progress — just starting geometry/reference research.
