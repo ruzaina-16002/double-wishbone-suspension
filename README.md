@@ -16,7 +16,7 @@ An intermediate SolidWorks assembly project designing a double-wishbone suspensi
 
 ## References
 - Used grabcad to find a simple CAD of a suspension assembly. 
-- I have completed the bearing and nut at the centre of the wheel and am now onto the fronr rim: 
+- I have completed the bearing and nut at the centre of the wheel and am now contstructing the front rim: 
 
 <table>
 <tr>
